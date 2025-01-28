@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bootstrap and C language.
 - 📫 How to reach me = aqmardanishhakim@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Theres no fun fact about me only sufferings
+- ⚡ Fun fact: I am a good swimmer
 
 <!---
 DannySauruz/DannySauruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
