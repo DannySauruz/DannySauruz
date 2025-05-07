@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and website development and computer network security.
 - 🌱 I’m currently learning Bootstrap and C language.
 - 📫 How to reach me = aqmardanishhakim@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: hee/hee 
 - ⚡ Fun fact: I am a good swimmer
 
 <!---
