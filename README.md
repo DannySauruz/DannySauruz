@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @DannySauruz
-- 👀 I’m interested in software and website development and computer network security.
-- 🌱 I’m currently learning Bootstrap and C language.
-- 📫 How to reach me = aqmardanishhakim@gmail.com
-- 😄 Pronouns: he/him
+# 👋 Hi, I’m Danny (@DannySauruz)
 
-<!---
-DannySauruz/DannySauruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in **software + web development** and **computer network security**.
+
+## 👀 Interests
+- Software engineering & web development
+- Computer / network security
+
+## 🌱 Currently learning
+- Bootstrap
+- C language
+
+## 📫 Contact
+- Email: aqmardanishhakim@gmail.com
+- GitHub: https://github.com/DannySauruz
+
+## 😄 Pronouns
+- he/him
+
+---
+
+<sub>Last updated: 2026-05-03</sub>
