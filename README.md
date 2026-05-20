@@ -1,32 +1,45 @@
-# 👋 Hi, I’m Danny (@DannySauruz)
-
-I’m interested in **software + web development** and **computer/network security**.
-
-## 👀 Interests
-- Software engineering & web development
-- Homelab engineering (self-hosting, monitoring, automation)
-- Cybersecurity learning (offense + defense)
-
-## 🌱 Currently learning
-- Bootstrap (front-end fundamentals)
-- C language (low-level fundamentals)
-- **Homelab monitoring**: Prometheus, Grafana, Loki/Promtail, cAdvisor, Node Exporter
-- **Secure remote access**: Tailscale (VPN)
-- **Linux security + blue-team basics**: log monitoring (LogQL), SSH hardening, Fail2ban
-- **Pentesting fundamentals**: reconnaissance (Nmap), exploit practice (Metasploitable2), password cracking (John the Ripper)
-
-## 🔬 Homelab / Cybersec lab (recent focus)
-- Built a Docker-based monitoring stack and learned container networking pitfalls (e.g., `localhost` inside containers)
-- Practiced end-to-end “attack → observe → defend” using Grafana/Loki + live auth log monitoring
-- Automated brute-force protection with Fail2ban
-
-## 📫 Contact
-- Email: akmardanishhakim@gmail.com
-- GitHub: https://github.com/DannySauruz
-
-## 😄 Pronouns
-- he/him
-
----
-
-<sub>Last updated: 2026-05-03</sub>
+IyDwn5GLIEhpLCBJ4oCZbSBEYW5ueSAoQERhbm55U2F1cnV6KQoKSeKAmW0g
+aW50ZXJlc3RlZCBpbiAqKnNvZnR3YXJlICsgd2ViIGRldmVsb3BtZW50Kiog
+YW5kICoqY29tcHV0ZXIvbmV0d29yayBzZWN1cml0eSoqLgoKIyMg8J+RgCBJ
+bnRlcmVzdHMKLSBTb2Z0d2FyZSBlbmdpbmVlcmluZyAmIHdlYiBkZXZlbG9w
+bWVudAotIEhvbWVsYWIgZW5naW5lZXJpbmcgKHNlbGYtaG9zdGluZywgbW9u
+aXRvcmluZywgYXV0b21hdGlvbikKLSBDeWJlcnNlY3VyaXR5IGxlYXJuaW5n
+IChvZmZlbnNlICsgZGVmZW5zZSkKCiMjIPCfjLEgQ3VycmVudGx5IGxlYXJu
+aW5nCi0gQm9vdHN0cmFwIChmcm9udC1lbmQgZnVuZGFtZW50YWxzKQotIEMg
+bGFuZ3VhZ2UgKGxvdy1sZXZlbCBmdW5kYW1lbnRhbHMpCi0gKipIb21lbGFi
+IG1vbml0b3JpbmcqKjogUHJvbWV0aGV1cywgR3JhZmFuYSwgTG9raS9Qcm9t
+dGFpbCwgY0Fkdmlzb3IsIE5vZGUgRXhwb3J0ZXIKLSAqKlNlY3VyZSByZW1v
+dGUgYWNjZXNzKio6IFRhaWxzY2FsZSAoVlBOKQotICoqTGludXggc2VjdXJp
+dHkgKyBibHVlLXRlYW0gYmFzaWNzKio6IGxvZyBtb25pdG9yaW5nIChMb2dR
+TCksIFNTSCBoYXJkZW5pbmcsIEZhaWwyYmFuCi0gKipQZW50ZXN0aW5nIGZ1
+bmRhbWVudGFscyoqOiByZWNvbm5haXNzYW5jZSAoTm1hcCksIGV4cGxvaXQg
+cHJhY3RpY2UgKE1ldGFzcGxvaXRhYmxlMiksIHBhc3N3b3JkIGNyYWNraW5n
+IChKb2huIHRoZSBSaXBwZXIpCgojIyDwn5SsIEhvbWVsYWIgLyBDeWJlcnNl
+YyBsYWIgKHJlY2VudCBmb2N1cykKLSBCdWlsdCBhIERvY2tlci1iYXNlZCBt
+b25pdG9yaW5nIHN0YWNrIGFuZCBsZWFybmVkIGNvbnRhaW5lciBuZXR3b3Jr
+aW5nIHBpdGZhbGxzIChlLmcuLCBgbG9jYWxob3N0YCBpbnNpZGUgY29udGFp
+bmVycykKLSBQcmFjdGljZWQgZW5kLXRvLWVuZCDigJxhdHRhY2sg4oaSIG9i
+c2VydmUg4oaSIGRlZmVuZOKAnSB1c2luZyBHcmFmYW5hL0xva2kgKyBsaXZl
+IGF1dGggbG9nIG1vbml0b3JpbmcKLSBBdXRvbWF0ZWQgYnJ1dGUtZm9yY2Ug
+cHJvdGVjdGlvbiB3aXRoIEZhaWwyYmFuCgojIyDwn5OrIENvbnRhY3QKLSBF
+bWFpbDogYWttYXJkYW5pc2hoYWtpbUBnbWFpbC5jb20KLSBHaXRIdWI6IGh0
+dHBzOi8vZ2l0aHViLmNvbS9EYW5ueVNhdXJ1egoKIyMg8J+YhCBQcm9ub3Vu
+cwotIGhlL2hpbQoKLS0tCgo8c3ViPkxhc3QgdXBkYXRlZDogMjAyNi0wNS0w
+Mzwvc3ViPgoKCiMjIOKcqSBHdWlkZWQKClxuXG4qKiBJRDogQXV0b21hdGlv
+biBEZXZlbG9wZXIgdXNpbmcgVWlQYXRoICogKlxuXG5JIGFtIGFuIGF1dG9t
+YXRpb24gZGV2ZWxvcGVyIHdpdGggZXhwZXJpZW5jZSBpbiB1c2luZyBVaVBh
+dGggYW5kIHJlbGF0ZWQgdGVjaG5vbG9naWVzIHRvIHN0cmVhbWxpbmUgYnVz
+aW5lc3MgcHJvY2Vzc2VzLiBJIHMgc3BlY2lhbGl6ZSBpbiBkZXNpZ25pbmcs
+aW1wbGVtZW50aW5nLCBhbmQgZGVwbG95aW5nIFJQQSAoUm9ib3RpYyBQcm9j
+ZXNzIEF1dG9tYXRpb24pIHNvbHV0aW9ucyB0aGF0IGltcHJvdmUgZWZmaWNp
+ZW5jeSwgYWNjdXJhY3ksIGFuZCBzY2FsYWJpbGl0eS4gTXkgYmFja2dyb3Vu
+ZCBhbHNvIGluY2x1ZGVzIHNjcmlwdGluZyBhbmQgaW50ZWdyYXRpb24gd2l0
+aCB2YXJpb3VzIHN5c3RlbXMsIGZvY3VzaW5nIG9uIGRlbGl2ZXJpbmcgaGln
+aC1xdWFsaXR5IGF1dG9tYXRpb24gb3V0Y29tZXMuXG5cblxuKlxuKiogVG9v
+bHMgJiBUZWNobm9sb2dpZXNcbi0gVWlQYXRoIChTdHVkaW8sIE9yY2hlc3Ry
+YXRvcikKLSBSUEEgd29ya2Zsb3dzIGFuZCBzY3JpcHRpbmcKLSBQcm9jZXNz
+IGRvY3VtZW50YXRpb24gYW5kIGFuYWx5c2lzCi0gU2NyaXB0aW5nIChWQi5O
+RVQsIFB5dGhvbiwgUG93ZXJTaGVsbCkKLSBBdXRvbWF0aW9uIHRlc3Rpbmcg
+YW5kIGRlcGxveW1lbnRcblxuRmVlbCBmcmVlIHRvIHJlYWNoIG91dCBpZiB5
+b3UndCBsaWtlIHRvIGRpc2N1c3MgYXV0b21hdGlvbiBwcm9qZWN0cyBvciBj
+b2xsYWJvcmF0aW9uIG9wcG9ydHVuaXRpZXMhXG4K
