@@ -32,7 +32,7 @@ I am an automation developer with experience using UiPath and related technologi
 - Automated brute-force protection with Fail2ban
 
 ## 📬 Contact
-- Email: akmardanisihakim@gmail.com
+- Email: akmardanishhakim@gmail.com
 - GitHub: https://github.com/DannySauruz
 
 ## 🏷️ Pronouns
