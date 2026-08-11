@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danny (@DannySauruz)
+# 👋 Hi, I'm Danish (@DannySauruz)
 
 I'm interested in **software & web development** and **computer/network security**.
 
