@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danish (@DannySauruz)
+#  Hi, I'm Danish (@DannySauruz)
 
 I'm interested in **software & web development** and **computer/network security**.
 
@@ -33,7 +33,6 @@ I am an automation developer with experience using UiPath and related technologi
 
 ## 📬 Contact
 - Email: akmardanishhakim@gmail.com
-- GitHub: https://github.com/DannySauruz
 
 ## 🏷️ Pronouns
 - he/him
