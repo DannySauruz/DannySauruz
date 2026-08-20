@@ -38,5 +38,3 @@ I am an automation developer with experience using UiPath and related technologi
 - he/him
 
 ---
-
-<sub>Last updated: 2026-05-20</sub>
